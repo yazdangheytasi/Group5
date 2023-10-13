@@ -1,1 +1,1 @@
-print("func 2")
+print("Func 2")
